@@ -7,9 +7,13 @@ Through hands-on activities and guided tutorials on Google Classroom, learners e
 
 # 🎯 Learning Objectives
 Understand the impact of climate-induced natural hazards (e.g. floods, heatwaves, droughts).
+
 Design and build early warning systems such heatwave EWS, Drought EWS using physical computing.
+
 Learn to harness renewable energy sources like solar and wind power as alternative power sources.
+
 Gain beginner-friendly skills in computer programming(Python and Codeblocks) and Basic electronics.
-Strengthen problem-solving and design thinking through real-world challenges.
+
+Develop problem-solving and design thinking through real-world challenges.
 
 
