@@ -17,3 +17,35 @@ Gain beginner-friendly skills in computer programming(Python and Codeblocks) and
 Develop problem-solving and design thinking through real-world challenges.
 
 
+# 🧰 Tools & Components
+Programming Tools
+Microsoft MakeCode for micro:bit
+
+
+# 🧱 Hardware & Kits
+micro:bit Kit (microcontroller board, USB cable, battery pack)
+
+Jumper Wires (male-male, male-female, female-female)
+
+Breadboard
+
+Resistors, LEDs, and Buzzers
+
+Solar Panel
+
+Wind Turbine or DC Motor (as wind energy source)
+
+Batteries
+
+# 🌡️ Sensors
+Temperature Sensor (e.g., TMP36, DHT11)
+
+Water Level Sensor
+
+Soil Moisture Sensor
+
+Raindrop Sensor
+
+
+
+
