@@ -1,3 +1,7 @@
+""" This code is designed for agricultural drought early warning systems, 
+    but it can be adapted for hydrological and meteorological droughts by 
+    integrating a water level sensor and a rain sensor, respectively."""
+
 temperature = 0
 soil_moisture_level = pins.analog_read_pin(AnalogPin.P0)
 soil_moisture_level_in_percentage = 0
